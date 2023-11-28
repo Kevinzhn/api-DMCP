@@ -1,0 +1,17 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "Etapa Avaliativa II - BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon .\\src\\index.js"
+  },
+  "author": "Kevin Zhou Zheng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
